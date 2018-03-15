@@ -39,11 +39,20 @@ _**Screener validation**_
 #### **Técnicas a utilizar:**
 - Encuestas online
 - Entrevistas a profundidad
-- Benchmarking
+- Benchmark
 - Testing
-
+### **Planner del proyecto**
 ### **Proceso de diseño**
 
 ### **DESCUBRIMIENTO E INVESTIGACIÓN**
+### **Recopilación y análisis de datos**
+#### **Encuestas online**
+_**Principales resultados**_  
+#### **Entrevistas a profundidad**
+_**Principales resultados**_  
+#### **Benchmark**
+(Comparar Fintual-warren)
 
-### **Planeamiento**
+### **SÍNTESIS Y DEFINICIÓN**
+### **Identificación de los insights**
+### **User persona**
