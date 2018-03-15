@@ -14,7 +14,11 @@
 
 - [Trello de organización](#trello-de-organización)
 - [Nuestro proceso de UX](#nuestro-proceso-ux)
+
 - [User Research](#user-research)
-- [Equipo de trabajo](#equipo-de-trabajo)
+
 - [User Flow](#user-flow)
 - [Task Flow](#task-flow)
+- [Equipo de trabajo](#equipo-de-trabajo)
+
+### **NUEVA EXPERIENCIA EN UNA PLATAFORMA DE INVERSIONES**
