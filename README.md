@@ -22,3 +22,28 @@
 - [Equipo de trabajo](#equipo-de-trabajo)
 
 ### **NUEVA EXPERIENCIA EN UNA PLATAFORMA DE INVERSIONES**
+### **Idea de negocio**
+### **Público Objetivo**
+### **Stakeholders**
+### **Reunión kick-off**
+#### **Entrevistas a los socios**
+#### **Reguladores estatales y financieros**
+#### **Guía de entrevistas a usuarios**
+_**Objetivos:**_    
+_**Screener validation**_  
+### **Business Model Canvas**
+### **Plan propuesto de investigación**
+#### **Meta de la investigación:**
+#### **Objetivo de la investigación:**
+#### **Producto a investigar:**
+#### **Técnicas a utilizar:**
+- Encuestas online
+- Entrevistas a profundidad
+- Benchmarking
+- Testing
+
+### **Proceso de diseño**
+
+### **DESCUBRIMIENTO E INVESTIGACIÓN**
+
+### **Planeamiento**
