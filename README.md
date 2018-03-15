@@ -78,6 +78,9 @@ Se comenzó a trabajar para realizar el ejercicio de **findings en post it** par
 #### **User Flow**
 #### **Task Flow**
 #### **Customer Journey Map**
+- _**Flujo ideal del producto**_ 
+- _**Flujo real del producto**_ 
+
 #### **Primer testing - paper prototyping**
 - _**Script del testing**_ 
 - _**Tareas a realizar**_ 
@@ -89,3 +92,13 @@ Se comenzó a trabajar para realizar el ejercicio de **findings en post it** par
 - _**Script del testing**_ 
 - _**Tareas a realizar**_ 
 
+### **CONCLUSIONES**
+
+#### **Tecnología a emplear**
+- Nuestro producto es una aplicación nativa, desarrollada tanto para iOS como para Android.
+
+- La elección fue hecha a raíz de que la mayoría de nuestros usuarios  usan sus dispositivos celulares todo el tiempo para estar conectados y para realizar operaciones bancarias y también porque se quiere aprovechar ciertas capacidades tanto del dispositivo como del sistema operativo, por ejemplo:
+
+- Biometría: Opción de la huella dactilar para el ingreso al aplicativo, puesto que esto supone una mayor seguridad para el usuario.
+
+- GPS: Permite el acceso a la ubicación del usuario en la opción de Retiro express.
