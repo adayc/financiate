@@ -54,5 +54,35 @@ _**Principales resultados**_
 (Comparar Fintual-warren)
 
 ### **SÍNTESIS Y DEFINICIÓN**
+### **Affinity Mapping**
+Se comenzó a trabajar para realizar el ejercicio de **findings en post it** para posteriormente realizar el **Affinity Mapping** donde se agruparon los principales motivos de inversión y no inversión según su categoría.
 ### **Identificación de los insights**
 ### **User persona**
+#### **User persona primario**
+#### **User persona secundario**
+### **Problems Statements**
+### **How Might We? (HMW)**
+### **What if?**
+### **IDEACIÓN**
+### **Feature List**
+### **Priorización**
+### **Storytelling**
+### **PROTOTYPING**  
+#### **Paper prototyping - versión 1**
+#### **Paper prototyping - versión 2**
+#### **Prototipo de alta fidelidad**
+### **TESTING**
+#### **Primer testing - paper prototyping**
+_**Script del testing**_ 
+_**Tareas a realizar**_ 
+
+#### **Segundo testing - paper prototyping**
+_**Script del testing**_ 
+_**Tareas a realizar**_ 
+
+#### **Tercer testing - prototipo de alta fidelidad**
+_**Script del testing**_ 
+_**Tareas a realizar**_ 
+
+### **User Flow**
+### **Task Flow**
