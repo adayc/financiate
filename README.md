@@ -29,8 +29,8 @@
 #### **Entrevistas a los socios**
 #### **Reguladores estatales y financieros**
 #### **Guía de entrevistas a usuarios**
-_**Objetivos:**_    
-_**Screener validation**_  
+- _**Objetivos:**_    
+- _**Screener validation**_  
 ### **Business Model Canvas**
 ### **Plan propuesto de investigación**
 #### **Meta de la investigación:**
@@ -47,9 +47,9 @@ _**Screener validation**_
 ### **DESCUBRIMIENTO E INVESTIGACIÓN**
 ### **Recopilación y análisis de datos**
 #### **Encuestas online**
-_**Principales resultados**_  
+- _**Principales resultados**_  
 #### **Entrevistas a profundidad**
-_**Principales resultados**_  
+- _**Principales resultados**_  
 #### **Benchmark**
 (Comparar Fintual-warren)
 
@@ -68,21 +68,24 @@ Se comenzó a trabajar para realizar el ejercicio de **findings en post it** par
 ### **Priorización**
 ### **Storytelling**
 ### **PROTOTYPING**  
+#### **Arquitectura de la información **
+- _**Card Sorting**_
+- _**Sitemap**_  
 #### **Paper prototyping - versión 1**
 #### **Paper prototyping - versión 2**
 #### **Prototipo de alta fidelidad**
 ### **TESTING**
+#### **User Flow**
+#### **Task Flow**
+#### **Customer Journey Map**
 #### **Primer testing - paper prototyping**
-_**Script del testing**_ 
-_**Tareas a realizar**_ 
+- _**Script del testing**_ 
+- _**Tareas a realizar**_ 
 
 #### **Segundo testing - paper prototyping**
-_**Script del testing**_ 
-_**Tareas a realizar**_ 
-
+- _**Script del testing**_ 
+- _**Tareas a realizar**_ 
 #### **Tercer testing - prototipo de alta fidelidad**
-_**Script del testing**_ 
-_**Tareas a realizar**_ 
+- _**Script del testing**_ 
+- _**Tareas a realizar**_ 
 
-### **User Flow**
-### **Task Flow**
