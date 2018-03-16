@@ -107,7 +107,8 @@ Realizamos encuestas online a 50 personas con las siguientes preguntas:
 ![](assets/imgs/p12.PNG)
 
 #### **Entrevistas a profundidad**
-Se realizaron entrevistas a profundidad con 6 personas a las cuales se les aplicó el siguiente cuestionario.
+Se realizaron entrevistas a profundidad con 6 personas a las cuales se les aplicó el siguiente cuestionario:
+https://drive.google.com/file/d/1EPWBOsojdfoME-dOiHEI8LKQF0mT2OE6/view?usp=sharing
 
 - **Building Rapport**
 
@@ -148,8 +149,13 @@ De las cosas que hemos conversado.
 Cómo mencione, es un poco para saber cómo interactúan los usuarios con sus ahorros e inversiones.
 
 Las entrevistadas fueron:
+> ![](assets/imgs/entrevistadas.PNG)
+- Los audios de las entrevistas se encuentran en el siguiente link:
+> ttps://drive.google.com/file/d/1EPWBOsojdfoME-dOiHEI8LKQF0mT2OE6/view?usp=sharing 
 
 - _**Brainstorming de aplicativo/website/servicio**_  
+
+
 - _**Principales insights**_  
 
 
