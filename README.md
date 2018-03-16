@@ -161,6 +161,7 @@ Ellas realizaron brainstorming partiendo de esa idea y plasmaron sus ideas en un
 
 - _**Principales insights**_  
 
+#### **Benchmark**
 Se realiza un benchmark con nuestros principales a modelos a seguir:
 
 - Fintual (Chile)
@@ -170,8 +171,7 @@ Se realiza un benchmark con nuestros principales a modelos a seguir:
 
 > ![](assets/imgs/benchmarking.png)
 
-#### **Benchmark**
-(Comparar Fintual-warren)
+
 
 ### **SÍNTESIS Y DEFINICIÓN**
 ### **Affinity Mapping**
