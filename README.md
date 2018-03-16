@@ -108,6 +108,7 @@ Realizamos encuestas online a 50 personas con las siguientes preguntas:
 
 #### **Entrevistas a profundidad**
 Se realizaron entrevistas a profundidad con 6 personas a las cuales se les aplicó el siguiente cuestionario.
+
 - **Building Rapport**
 
 1. 	Por favor, me indicas tu nombre.
@@ -145,6 +146,8 @@ Se realizaron entrevistas a profundidad con 6 personas a las cuales se les aplic
 De las cosas que hemos conversado.
 ¿Hay alguna pregunta que deseas realizar?
 Cómo mencione, es un poco para saber cómo interactúan los usuarios con sus ahorros e inversiones.
+
+Las entrevistadas fueron:
 
 - _**Brainstorming de aplicativo/website/servicio**_  
 - _**Principales insights**_  
