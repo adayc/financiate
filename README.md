@@ -49,7 +49,7 @@
 #### **Encuestas online**
 Realizamos encuestas online a 50 personas con las siguientes preguntas:
 - _**1. Edad**_
-> CCSDVDVSDVSDV
+![](assets/imgs/p1.PNG)
 
 - _**2. Género**_  
 - _**3. ¿A qué te dedicas actualmente?**_   
@@ -59,8 +59,8 @@ Realizamos encuestas online a 50 personas con las siguientes preguntas:
 - _**7. ¿Alguna vez has invertido?**_  
 - _**8. ¿Por qué decidiste invertir? o ¿Por qué no?**_  
 - ¿Por qué decidiste invertir?
->-  Inverti para generar un ingreso adicional
->-  Para viajar al extranjero.
+> Inverti para generar un ingreso adicional
+> Para viajar al extranjero.
 >- Para ganar en base a la inversión y los intereses, duplicar mi presupuesto, generar más ingresos.
 >- Quise incursionar en un negocio propio / Tener crecimiento empresarial.
 >- Construir mi vivienda
