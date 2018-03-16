@@ -161,7 +161,14 @@ Ellas realizaron brainstorming partiendo de esa idea y plasmaron sus ideas en un
 
 - _**Principales insights**_  
 
+Se realiza un benchmark con nuestros principales a modelos a seguir:
 
+- Fintual (Chile)
+> Es una administradora de dinero creada para jóvenes profesionales que no saben de inversiones o que prefieren ver Netflix antes que estar estudiando el mercado.
+- Warren (Brasil)
+> Warren es una empresa nueva, pero con una sólida fundación. Son años de experiencia profesional combinados para crear la primera plataforma de inversiones por objetivos de Brasil.
+
+> ![](assets/imgs/benchmarking.png)
 
 #### **Benchmark**
 (Comparar Fintual-warren)
