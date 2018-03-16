@@ -107,6 +107,7 @@ Realizamos encuestas online a 50 personas con las siguientes preguntas:
 ![](assets/imgs/p12.PNG)
 
 #### **Entrevistas a profundidad**
+Se realizaron entrevistas a profundidad con 6 personas a las cuales se les aplicó el siguiente cuestionario.
 - **Building Rapport**
 
 1. 	Por favor, me indicas tu nombre.
