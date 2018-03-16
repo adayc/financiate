@@ -48,10 +48,10 @@
 ### **Recopilación y análisis de datos**
 #### **Encuestas online**
 Realizamos encuestas online a 50 personas con las siguientes preguntas:
- _**1. Edad:**_
+ 1. _**Edad:**_
 ![](assets/imgs/p1.PNG)
 
- _**2. Género**_  
+ 2. _**Género**_  
  ![](assets/imgs/p2.PNG)
  _**3. ¿A qué te dedicas actualmente?**_  
  ![](assets/imgs/p3.PNG) 
