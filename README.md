@@ -67,7 +67,7 @@ Realizamos encuestas online a 50 personas con las siguientes preguntas:
  ![](assets/imgs/p7.PNG)
 8. _**¿Por qué decidiste invertir? o ¿Por qué no?**_  
 - ¿Por qué decidiste invertir?
-> Inverti para generar un ingreso adicional
+    - Inverti para generar un ingreso adicional.
 > Para viajar al extranjero.
 >- Para ganar en base a la inversión y los intereses, duplicar mi presupuesto, generar más ingresos.
 >- Quise incursionar en un negocio propio / Tener crecimiento empresarial.
