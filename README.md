@@ -149,7 +149,7 @@ De las cosas que hemos conversado.
 Cómo mencione, es un poco para saber cómo interactúan los usuarios con sus ahorros e inversiones.
 
 Las entrevistadas fueron:
-> ![](assets/imgs/entrevistadas.PNG)
+> ![](assets/imgs/entrevistadas.png)
 - Los audios de las entrevistas se encuentran en el siguiente link:
 > ttps://drive.google.com/file/d/1EPWBOsojdfoME-dOiHEI8LKQF0mT2OE6/view?usp=sharing 
 
