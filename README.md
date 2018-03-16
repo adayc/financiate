@@ -155,6 +155,9 @@ Las entrevistadas fueron:
 
 - _**Brainstorming de aplicativo/website/servicio**_  
 
+Adicional a eso se les presento a las entrevistadas la propuesta de una aplicación/web/servicio/producto la cual permita administrar tus ahorros e invertirlos.
+Ellas realizaron brainstorming partiendo de esa idea y plasmaron sus ideas en un papel del siguiente modo:
+
 
 - _**Principales insights**_  
 
