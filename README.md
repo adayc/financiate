@@ -107,7 +107,14 @@ Realizamos encuestas online a 50 personas con las siguientes preguntas:
 ![](assets/imgs/p12.PNG)
 
 #### **Entrevistas a profundidad**
-- _**Principales resultados**_  
+
+1. _**¿Por qué decidiste invertir? o ¿Por qué no?**_
+
+- _**Brainstorming de aplicativo/website/servicio**_  
+- _**Principales insights**_  
+
+
+
 #### **Benchmark**
 (Comparar Fintual-warren)
 
@@ -126,7 +133,7 @@ Se comenzó a trabajar para realizar el ejercicio de **findings en post it** par
 ### **Priorización**
 ### **Storytelling**
 ### **PROTOTYPING**  
-#### **Arquitectura de la información **
+#### **Arquitectura de la información**
 - _**Card Sorting**_
 - _**Sitemap**_  
 #### **Paper prototyping - versión 1**
