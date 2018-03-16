@@ -68,28 +68,28 @@ Realizamos encuestas online a 50 personas con las siguientes preguntas:
 8. _**¿Por qué decidiste invertir? o ¿Por qué no?**_  
 - ¿Por qué decidiste invertir?
     - Inverti para generar un ingreso adicional.
-> Para viajar al extranjero.
->- Para ganar en base a la inversión y los intereses, duplicar mi presupuesto, generar más ingresos.
->- Quise incursionar en un negocio propio / Tener crecimiento empresarial.
->- Construir mi vivienda
+    - Para viajar al extranjero.
+    - Para ganar en base a la inversión y los intereses, duplicar mi presupuesto, generar más ingresos.
+    - Quise incursionar en un negocio propio / Tener crecimiento empresarial.
+    - Construir mi vivienda
 
 - ¿Por qué decidiste NO invertir?
->- No deseaba variaciones en mis ingresos. 
->- No me genera confianza.
->- No me siento preparado.
->- Falta de dinero.
->- No me interesa.
->- Falta de información acerca de la financiera.
->- No sé en que invertir
->- Porque estoy ahorrando y evaluando en que invertir
->- Prefiero solo ahorrar
->- Para invertir se necesita una gran cantidad de dinero.
->- No me gustan las finanzas, ni me interesan.
->- Falta de información acerca de las inversiones.
->- Temor a perder el capital.
->- No me gusta arriesgar.
->- No tengo asesoría para invertir
->- 
+    - No deseaba variaciones en mis ingresos. 
+    - No me genera confianza.
+    - No me siento preparado.
+    - Falta de dinero.
+    - No me interesa.
+    - Falta de información acerca de la financiera.
+    - No sé en que invertir
+    - Porque estoy ahorrando y evaluando en que invertir
+    - Prefiero solo ahorrar
+    - Para invertir se necesita una gran cantidad de dinero.
+    - No me gustan las finanzas, ni me interesan.
+    - Falta de información acerca de las inversiones.
+    - Temor a perder el capital.
+    - No me gusta arriesgar.
+    - No tengo asesoría para invertir
+
 
 
 9. _**¿Estarías dispuest@ a invertir un porcentaje de tus ahorros? ¿Qué porcentaje?**_  ![](assets/imgs/p9.PNG)
