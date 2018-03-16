@@ -107,8 +107,43 @@ Realizamos encuestas online a 50 personas con las siguientes preguntas:
 ![](assets/imgs/p12.PNG)
 
 #### **Entrevistas a profundidad**
+- **Building Rapport**
 
-1. _**¿Por qué decidiste invertir? o ¿Por qué no?**_
+1. 	Por favor, me indicas tu nombre.
+2.	Podría indicarme tu edad.
+3.	¿Qué tal? ¿Cómo estuvo tu día hoy?
+4.	Cuéntame sobre ti. ¿Cómo te defines? ¿Con quienes vives? ¿Qué haces cuando tienes tiempo libre?
+5.	¿A qué te dedicas actualmente? (Trabajas, estudias, ambas)
+
+- **Ahorros e ingresos**
+
+1.	Cuéntame ¿Ahorras actualmente?
+2.	¿Cuánto ahorras mensualmente en promedio?
+3.	¿Cuáles son los motivos por los cuales ahorras?
+4.	¿En los próximos 6 meses a cuánto ascenderá tu ingreso mensual aproximadamente?
+
+- **Objetivos y motivaciones**
+1.	¿Posees alguna meta o sueño en especial en la vida para ti o para tu familia? 
+2.	¿Qué estás haciendo actualmente para lograrlo?
+
+- **Inversiones**
+
+1.	¿Alguna vez has invertido? ¿Por qué?
+2.	¿Por qué decidiste invertir? o ¿Por qué no?
+3.	¿Estarías dispuesto a invertir parte de tus ahorros? ¿Por qué? 
+
+
+- **Otras preguntas**
+
+1.	Si te presentará una aplicación en la mediante la cual puedas invertir parte de tus ahorros. ¿Cómo te la imaginas? ¿Qué desearías que tenga? ¿Qué desearías que te informe?
+2.	¿Desearías que ese monto de tus ahorros a invertir, se debite de una cuenta principal, depositarlo o transferirlo?
+3.	Este monto a invertir lo realizarías de forma mensual, anual o en que periodos
+
+- **Debrief**
+
+De las cosas que hemos conversado.
+¿Hay alguna pregunta que deseas realizar?
+Cómo mencione, es un poco para saber cómo interactúan los usuarios con sus ahorros e inversiones.
 
 - _**Brainstorming de aplicativo/website/servicio**_  
 - _**Principales insights**_  
