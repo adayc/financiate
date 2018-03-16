@@ -47,7 +47,50 @@
 ### **DESCUBRIMIENTO E INVESTIGACIÓN**
 ### **Recopilación y análisis de datos**
 #### **Encuestas online**
-- _**Principales resultados**_  
+Realizamos encuestas online a 50 personas con las siguientes preguntas:
+- _**1. Edad**_
+> CCSDVDVSDVSDV
+
+- _**2. Género**_  
+- _**3. ¿A qué te dedicas actualmente?**_   
+- _**4.  ¿A cuánto asciende tu ingreso mensual?**_  
+- _**5. ¿Cuánto estas dispuesto a ahorrar mensualmente?**_  
+- _**6. ¿Cuáles son los motivos por los que ahorras?**_  
+- _**7. ¿Alguna vez has invertido?**_  
+- _**8. ¿Por qué decidiste invertir? o ¿Por qué no?**_  
+- ¿Por qué decidiste invertir?
+>-  Inverti para generar un ingreso adicional
+>-  Para viajar al extranjero.
+>- Para ganar en base a la inversión y los intereses, duplicar mi presupuesto, generar más ingresos.
+>- Quise incursionar en un negocio propio / Tener crecimiento empresarial.
+>- Construir mi vivienda
+
+- ¿Por qué decidiste NO invertir?
+>- No deseaba variaciones en mis ingresos. 
+>- No me genera confianza.
+>- No me siento preparado.
+>- Falta de dinero.
+>- No me interesa.
+>- Falta de información acerca de la financiera.
+>- No sé en que invertir
+>- Porque estoy ahorrando y evaluando en que invertir
+>- Prefiero solo ahorrar
+>- Para invertir se necesita una gran cantidad de dinero.
+>- No me gustan las finanzas, ni me interesan.
+>- Falta de información acerca de las inversiones.
+>- Temor a perder el capital.
+>- No me gusta arriesgar.
+>- No tengo asesoría para invertir
+>- 
+
+
+ _**9. ¿Estarías dispuest@ a invertir un porcentaje de tus ahorros? ¿Qué porcentaje?**_  
+- _**10. En el caso que no estés dispuesto a invertir. ¿Cuál sería el principal motivo?**_ 
+
+- _**11. Si inviertes 1000 soles, existe la posibilidad de ganar 2000 soles así como perder 500. ¿Jugarías esto alguna vez?**_  
+- _**12. En base a la pregunta anterior.¿Volverías a jugar?**_  
+
+
 #### **Entrevistas a profundidad**
 - _**Principales resultados**_  
 #### **Benchmark**
@@ -93,6 +136,8 @@ Se comenzó a trabajar para realizar el ejercicio de **findings en post it** par
 - _**Tareas a realizar**_ 
 
 ### **CONCLUSIONES**
+
+#### **Landing Page**
 
 #### **Tecnología a emplear**
 - Nuestro producto es una aplicación nativa, desarrollada tanto para iOS como para Android.
