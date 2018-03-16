@@ -55,16 +55,22 @@ Realizamos encuestas online a 50 personas con las siguientes preguntas:
  2. _**Género**_  
 
  ![](assets/imgs/p2.PNG)
-3. _**¿A qué te dedicas actualmente?**_  
+  
+  3. _**¿A qué te dedicas actualmente?**_  
  ![](assets/imgs/p3.PNG) 
-4. _**¿A cuánto asciende tu ingreso mensual?**_  
+ 
+ 4. _**¿A cuánto asciende tu ingreso mensual?**_  
  ![](assets/imgs/p4.PNG)
-5. _**¿Cuánto estas dispuesto a ahorrar mensualmente?**_ 
+ 
+ 5. _**¿Cuánto estas dispuesto a ahorrar mensualmente?**_ 
  ![](assets/imgs/p5.PNG) 
-6. _**¿Cuáles son los motivos por los que ahorras?**_  
+ 
+ 6. _**¿Cuáles son los motivos por los que ahorras?**_  
  ![](assets/imgs/p6.PNG)
+
 7. _**¿Alguna vez has invertido?**_  
  ![](assets/imgs/p7.PNG)
+
 8. _**¿Por qué decidiste invertir? o ¿Por qué no?**_  
 - ¿Por qué decidiste invertir?
     - Inverti para generar un ingreso adicional.
