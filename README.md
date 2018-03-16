@@ -55,17 +55,17 @@ Realizamos encuestas online a 50 personas con las siguientes preguntas:
  2. _**Género**_  
 
  ![](assets/imgs/p2.PNG)
-3.  _**¿A qué te dedicas actualmente?**_  
+3. _**¿A qué te dedicas actualmente?**_  
  ![](assets/imgs/p3.PNG) 
-4.   _**¿A cuánto asciende tu ingreso mensual?**_  
+4. _**¿A cuánto asciende tu ingreso mensual?**_  
  ![](assets/imgs/p4.PNG)
-5.  _**¿Cuánto estas dispuesto a ahorrar mensualmente?**_ 
+5. _**¿Cuánto estas dispuesto a ahorrar mensualmente?**_ 
  ![](assets/imgs/p5.PNG) 
-6.  _**¿Cuáles son los motivos por los que ahorras?**_  
+6. _**¿Cuáles son los motivos por los que ahorras?**_  
  ![](assets/imgs/p6.PNG)
-7.  _**¿Alguna vez has invertido?**_  
+7. _**¿Alguna vez has invertido?**_  
  ![](assets/imgs/p7.PNG)
-8.  _**¿Por qué decidiste invertir? o ¿Por qué no?**_  
+8. _**¿Por qué decidiste invertir? o ¿Por qué no?**_  
 - ¿Por qué decidiste invertir?
 > Inverti para generar un ingreso adicional
 > Para viajar al extranjero.
@@ -92,12 +92,12 @@ Realizamos encuestas online a 50 personas con las siguientes preguntas:
 >- 
 
 
-9.  _**¿Estarías dispuest@ a invertir un porcentaje de tus ahorros? ¿Qué porcentaje?**_  ![](assets/imgs/p9.PNG)
-10.  _**En el caso que no estés dispuesto a invertir. ¿Cuál sería el principal motivo?**_ 
+9. _**¿Estarías dispuest@ a invertir un porcentaje de tus ahorros? ¿Qué porcentaje?**_  ![](assets/imgs/p9.PNG)
+10. _**En el caso que no estés dispuesto a invertir. ¿Cuál sería el principal motivo?**_ 
 ![](assets/imgs/p10.PNG)
-11.  _**Si inviertes 1000 soles, existe la posibilidad de ganar 2000 soles así como perder 500. ¿Jugarías esto alguna vez?**_ 
+11. _**Si inviertes 1000 soles, existe la posibilidad de ganar 2000 soles así como perder 500. ¿Jugarías esto alguna vez?**_ 
  ![](assets/imgs/p11.PNG) 
-12.  _**En base a la pregunta anterior.¿Volverías a jugar?**_  
+12. _**En base a la pregunta anterior.¿Volverías a jugar?**_  
 ![](assets/imgs/p12.PNG)
 
 #### **Entrevistas a profundidad**
