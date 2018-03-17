@@ -22,7 +22,12 @@
 - [Equipo de trabajo](#equipo-de-trabajo)
 
 ### **NUEVA EXPERIENCIA EN UNA PLATAFORMA DE INVERSIONES**
+
+### **Contexto**
+![](assets/imgs/emprendedores.png)
+
 ### **Idea de negocio**
+
 ### **Público Objetivo**
 ### **Stakeholders**
 ### **Reunión kick-off**
