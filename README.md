@@ -26,7 +26,7 @@
 ### **Contexto**
 ![](assets/imgs/emprendedores.png)
 
-Jonatan e Italo son un par de inversores dedicados a las finanzas desde hace un par de años. Actualmente estan intersados en implementar un servicio con dos principales características: 
+Jonatan e Italo son un par de emprendedores dedicados a las finanzas desde hace un par de años. Actualmente estan intersados en implementar un servicio con dos principales características: 
 1. Asesoría financiera online.
 2. Administradora de recursos e inversiones.
 
@@ -40,15 +40,43 @@ Se han propuesto crear una fintech 100% digital con las características anterio
 ASESOR FINANCIERO ONLINE QUE PERMITE INVERTIR DE ACUERDO A TU PERFIL Y OBJETIVOS.
 
 ### **Público Objetivo**
-Jóvenes profesionales entre los 18 y 27 años.
+Jóvenes profesionales entre los 18 y 30 años.
 
 ### **Stakeholders**
+- Emprendedores.
+- Usuarios.
+- Reguladores estatales y financieros.
+
 ### **Reunión kick-off**
 #### **Entrevistas a los socios**
+1. ¿Cuál es el objetivo principal que la fintech desea lograr?
+- Ser un fintech amigable creada para jóvenes profesionales que no saben de inversiones y desean cambiar la forma en que  manejan su dinero.
+
+2. ¿Cuáles son las principales características de la fintech?
+La fintech debe poseer lo siguiente:
+- Elaborar un perfil de inversor en base a un banco de preguntas aleatorias.
+- Almacenar los siguientes datos:
+    - Nombre completo.
+    - Edad.
+    - Dirección.
+    - Teléfono.
+    - Datos de la empresa en que labora.
+    - Ingresos mensuales.
+    - Tiempo de inversión.
+    - Email.
+    - Datos de cuenta bancaria.
+- Creación de un usuario y contraseña.
+- Capacidad de autogestión del usuario para ver el rendimiento de su inversión.
+- Opciones de inversión en renta fija y variable.
+- Dashboard con indicadores de inversiones.
+3. ¿Cuáles son sus principales competidores o modelos a seguir?
+En este caso seríamos los primeros en Perú, tenemos modelos a seguir como : [Fintual](https://fintual.cl/) (Chile) y [Warren](https://oiwarren.com/) (Brasil).
 
 #### **Reguladores estatales y financieros**
+1. ¿Cuáles son las principales limitaciones que tenemos?
 - Reglamentación en lavado de activos.
 - Autenticación de identidad.
+- Declaraciones de origen de fondos y Compliance.
 #### **Guía de entrevistas a usuarios**
 - **Building Rapport**
 
