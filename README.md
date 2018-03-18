@@ -210,7 +210,6 @@ Adicional a eso se les presento a las entrevistadas la propuesta de una aplicaci
 Ellas realizaron brainstorming partiendo de esa idea y plasmaron sus ideas en un papel del siguiente modo:
 > ![](assets/imgs/brainstorming.png)
 
-#### **Principales insights de las encuestas y entrevistas** 
 
 
 #### **Benchmark**
@@ -228,7 +227,7 @@ Se realiza un benchmark con nuestros principales a modelos a seguir:
 ### **SÍNTESIS Y DEFINICIÓN**
 ### **Affinity Mapping**
 Se comenzó a trabajar para realizar el ejercicio de **findings en post it** para posteriormente realizar el **Affinity Mapping** donde se agruparon los principales motivos de inversión y no inversión según su categoría.
-### **Identificación de los insights**
+#### **Ideas principales**
 ### **User persona**
 #### **User persona primario**
 #### **User persona secundario**
