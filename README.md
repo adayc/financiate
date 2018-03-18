@@ -255,7 +255,23 @@ Además debe plasmar de forma clara que está ocurriendo con el dinero del usuar
 ### **Affinity Mapping**
 Se comenzó a trabajar para realizar el ejercicio de **findings en post it** para posteriormente realizar el **Affinity Mapping** donde se agruparon los principales motivos de inversión y no inversión según su categoría.
 ![](assets/imgs/motivos.jpg)
-#### **Ideas principales**
+
+Se agruparon los motivos por los cuales los usuarios habían invertido o no en las siguientes categorías.
+1. Motivos de inversión
+- Generar mayores ingresos.
+- Tener un negocio propio.
+- Construir una vivienda.
+- Viajar al extranjero.
+2. Motivos de NO inversión
+- Falta de información 
+- Genera inseguridad.
+- Temor a pérdidas de capital.
+- Desinterés.
+
+Luego de analizar todo la información obtenida, nos dimos cuenta de que de las categorías "Falta de Información" y "Temor a pérdidas de capital"  tienen más coincidencia entre nuestros usuarios como principales causas para evitar invertir.
+Por lo tanto se abordará estos temas en la aplicación mediante un asesor financiero online e informando de forma clara el nivel de riesgo de acuerdo a la inversión que se realice.
+
+#### **Comentarios de los usuarios**
 ### **User persona**
 #### **User persona primario**
 #### **User persona secundario**
