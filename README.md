@@ -32,7 +32,7 @@ Jonatan e Italo son un par de inversores dedicados a las finanzas desde hace un 
 
 Para esto se han inspirado en dos fintech de países vecinos  [Fintual](https://fintual.cl/) (Chile) y [Warren](https://oiwarren.com/) (Brasil).
 
-Se han propuesto crear una fintech 100% digital con las características anteriormente descrita.
+Se han propuesto crear una fintech 100% digital con las características anteriormente descritas.
 
 
 ### **Idea de negocio**
@@ -40,13 +40,54 @@ Se han propuesto crear una fintech 100% digital con las características anterio
 ASESOR FINANCIERO ONLINE QUE PERMITE INVERTIR DE ACUERDO A TU PERFIL Y OBJETIVOS.
 
 ### **Público Objetivo**
+Jóvenes profesionales entre los 18 y 27 años.
+
 ### **Stakeholders**
 ### **Reunión kick-off**
 #### **Entrevistas a los socios**
+
 #### **Reguladores estatales y financieros**
+- Reglamentación en lavado de activos.
+- Autenticación de identidad.
 #### **Guía de entrevistas a usuarios**
-- _**Objetivos:**_    
-- _**Screener validation**_  
+- **Building Rapport**
+
+1. 	Por favor, me indicas tu nombre.
+2.	Podría indicarme tu edad.
+3.	¿Qué tal? ¿Cómo estuvo tu día hoy?
+4.	Cuéntame sobre ti. ¿Cómo te defines? ¿Con quienes vives? ¿Qué haces cuando tienes tiempo libre?
+5.	¿A qué te dedicas actualmente? (Trabajas, estudias, ambas)
+
+- **Ahorros e ingresos**
+
+1.	Cuéntame ¿Ahorras actualmente?
+2.	¿Cuánto ahorras mensualmente en promedio?
+3.	¿Cuáles son los motivos por los cuales ahorras?
+4.	¿En los próximos 6 meses a cuánto ascenderá tu ingreso mensual aproximadamente?
+
+- **Objetivos y motivaciones**
+1.	¿Posees alguna meta o sueño en especial en la vida para ti o para tu familia? 
+2.	¿Qué estás haciendo actualmente para lograrlo?
+
+- **Inversiones**
+
+1.	¿Alguna vez has invertido? ¿Por qué?
+2.	¿Por qué decidiste invertir? o ¿Por qué no?
+3.	¿Estarías dispuesto a invertir parte de tus ahorros? ¿Por qué? 
+
+
+- **Otras preguntas**
+
+1.	Si te presentará una aplicación en la mediante la cual puedas invertir parte de tus ahorros. ¿Cómo te la imaginas? ¿Qué desearías que tenga? ¿Qué desearías que te informe?
+2.	¿Desearías que ese monto de tus ahorros a invertir, se debite de una cuenta principal, depositarlo o transferirlo?
+3.	Este monto a invertir lo realizarías de forma mensual, anual o en que periodos
+
+- **Debrief**
+
+De las cosas que hemos conversado.
+¿Hay alguna pregunta que deseas realizar?
+Cómo mencione, es un poco para saber cómo interactúan los usuarios con sus ahorros e inversiones.
+
 ### **Business Model Canvas**
 ### **Plan propuesto de investigación**
 #### **Meta de la investigación:**
@@ -126,43 +167,6 @@ Realizamos encuestas online a 50 personas con las siguientes preguntas:
 Se realizaron entrevistas a profundidad con 6 personas a las cuales se les aplicó el siguiente cuestionario:
 https://drive.google.com/file/d/1EPWBOsojdfoME-dOiHEI8LKQF0mT2OE6/view?usp=sharing
 
-- **Building Rapport**
-
-1. 	Por favor, me indicas tu nombre.
-2.	Podría indicarme tu edad.
-3.	¿Qué tal? ¿Cómo estuvo tu día hoy?
-4.	Cuéntame sobre ti. ¿Cómo te defines? ¿Con quienes vives? ¿Qué haces cuando tienes tiempo libre?
-5.	¿A qué te dedicas actualmente? (Trabajas, estudias, ambas)
-
-- **Ahorros e ingresos**
-
-1.	Cuéntame ¿Ahorras actualmente?
-2.	¿Cuánto ahorras mensualmente en promedio?
-3.	¿Cuáles son los motivos por los cuales ahorras?
-4.	¿En los próximos 6 meses a cuánto ascenderá tu ingreso mensual aproximadamente?
-
-- **Objetivos y motivaciones**
-1.	¿Posees alguna meta o sueño en especial en la vida para ti o para tu familia? 
-2.	¿Qué estás haciendo actualmente para lograrlo?
-
-- **Inversiones**
-
-1.	¿Alguna vez has invertido? ¿Por qué?
-2.	¿Por qué decidiste invertir? o ¿Por qué no?
-3.	¿Estarías dispuesto a invertir parte de tus ahorros? ¿Por qué? 
-
-
-- **Otras preguntas**
-
-1.	Si te presentará una aplicación en la mediante la cual puedas invertir parte de tus ahorros. ¿Cómo te la imaginas? ¿Qué desearías que tenga? ¿Qué desearías que te informe?
-2.	¿Desearías que ese monto de tus ahorros a invertir, se debite de una cuenta principal, depositarlo o transferirlo?
-3.	Este monto a invertir lo realizarías de forma mensual, anual o en que periodos
-
-- **Debrief**
-
-De las cosas que hemos conversado.
-¿Hay alguna pregunta que deseas realizar?
-Cómo mencione, es un poco para saber cómo interactúan los usuarios con sus ahorros e inversiones.
 
 Las entrevistadas fueron:
 > ![](assets/imgs/entrevistadas.png)
