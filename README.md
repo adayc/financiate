@@ -136,7 +136,7 @@ Identificar las variables que determinan el comportamiento de los jóvenes profe
 ### **Planner del proyecto**
 PLANER EN EXCEL 
 ### **Proceso de diseño**
-![](assets/imgs/proceso.PNG)
+![](assets/imgs/proceso.png)
 ### **DESCUBRIMIENTO E INVESTIGACIÓN**
 ### **Recopilación y análisis de datos**
 #### **Encuestas online**
