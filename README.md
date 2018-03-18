@@ -26,15 +26,18 @@
 ### **Contexto**
 ![](assets/imgs/emprendedores.png)
 
-Jonatan e Italo son un par de inversores dedicados a las finanzas desde hace un par de años. Actualmente estan intersados en implementar una fintech con dos principales características: 
-1. Asesorría financiera online.
+Jonatan e Italo son un par de inversores dedicados a las finanzas desde hace un par de años. Actualmente estan intersados en implementar un servicio con dos principales características: 
+1. Asesoría financiera online.
 2. Administradora de recursos e inversiones.
 
-Pare esto se han inspirado en dos fintech de paises vecinos  [Fintual](https://fintual.cl/) (Chile) y [Warren](https://oiwarren.com/) (Brasil).
+Para esto se han inspirado en dos fintech de países vecinos  [Fintual](https://fintual.cl/) (Chile) y [Warren](https://oiwarren.com/) (Brasil).
 
+Se han propuesto crear una fintech 100% digital con las características anteriormente descrita.
 
 
 ### **Idea de negocio**
+
+ASESOR FINANCIERO ONLINE QUE PERMITE INVERTIR DE ACUERDO A TU PERFIL Y OBJETIVOS.
 
 ### **Público Objetivo**
 ### **Stakeholders**
