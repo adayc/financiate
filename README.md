@@ -120,6 +120,7 @@ De las cosas que hemos conversado.
 Cómo mencione, es un poco para saber cómo interactúan los usuarios con sus ahorros e inversiones.
 
 ### **Business Model Canvas**
+EN PROCESO
 ### **Plan propuesto de investigación**
 
 #### **Objetivo de la investigación:**
@@ -134,7 +135,7 @@ Identificar las variables que determinan el comportamiento de los jóvenes profe
 - Benchmark
 - Testing
 ### **Planner del proyecto**
-PLANER EN EXCEL 
+EN PROCESO 
 ### **Proceso de diseño**
 ![](assets/imgs/proceso.png)
 ### **DESCUBRIMIENTO E INVESTIGACIÓN**
@@ -228,6 +229,27 @@ Se realiza un benchmark con nuestros principales a modelos a seguir:
 > ![](assets/imgs/benchmarking.png)
 
 ### **Resultados de la investigación**
+1. La app debe ser amigable, la comunicación entre el usuario y esta debe ser de forma clara para aquellas personas que simplemente les da flojera o no quieren perder el tiempo revisando temas de finanzas e inversiones.
+Además debe plasmar de forma clara que está ocurriendo con el dinero del usuario.
+2.  Invertir será posible desde un monto mínimo de 100 soles accesible para jóvenes con un ingreso promedio desde 450 soles mensuales sustentando con los respectivos documentos.
+3. Los usuarios están dispuestos a ahorrar hasta 1000 soles mensuales de sus ingresos.
+4. Los principales objetivos y motivaciones por lo cuales ahorran son:
+    - Vacaciones y viajes.
+    - Emergencias e imprevistos.
+    - Un negocio propio.
+    - Adquirir una vivienda.
+    - Jubilación y futuro familiar.
+5. Ellos están dispuestos a invertir hasta un 40% de sus ahorros 
+6. Nuestros usuarios generalmente no han invertido por falta de confianza, no tienen información acerca de inversiones, no les gustan las finanzas o simplemente les invade el temor a arriesgar.
+7. De los usuarios que han invertido lo han hecho en pequeñas cantidades generalmente en compra y venta de producto o en un negocio familiar.
+8. El 44% arriesgaría un monto de sus ahorros al menos una vez y el 40% lo volvería hacer.
+9. Según nuestros usuarios la aplicación debe enfocarse en los montos invertidos de la siguiente manera:
+    -  Mostrar el monto meta, monto a jugar, intéres ganado, monto que puedo rescatar y las fechas de inversión y el tiempo de retorno de la inversión.
+    - Sugerir empresas en las cuales pueda invertir mediante un rankinh y por categorías (Educación, salud, servicios, etc).
+    - Las empresas en las cuales pueda invertir deben mostrar su nombre, descripcion y un simulador de la tendencia en el caso que decida invertir en ella.
+    - Respecto a las inversiones un evolutivo de cada inversión diario, semanal y mensual.
+    - El monto a invertir debe debitarse de una cuenta principal.
+10. Por otro lado las aplicaciones analizadas se centran en un perfil de inversor y sugerir en que empresas podríamos invertir.
 
 ### **SÍNTESIS Y DEFINICIÓN**
 ### **Affinity Mapping**
