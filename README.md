@@ -49,8 +49,8 @@ Jóvenes profesionales entre los 18 y 30 años.
 
 ### **Reunión kick-off**
 #### **Entrevistas a los socios**
-1. ¿Cuál es el objetivo principal que la fintech desea lograr?
-- Ser un fintech amigable creada para jóvenes profesionales que no saben de inversiones y desean cambiar la forma en que  manejan su dinero.
+1. ¿Cuál es el mensaje que se desea transmitir a los clientes?
+- Ser una fintech amigable creada para jóvenes profesionales que no saben de inversiones y desean cambiar la forma en que  manejan su dinero.
 
 2. ¿Cuáles son las principales características de la fintech?
 La fintech debe poseer lo siguiente:
@@ -71,6 +71,9 @@ La fintech debe poseer lo siguiente:
 - Dashboard con indicadores de inversiones.
 3. ¿Cuáles son sus principales competidores o modelos a seguir?
 En este caso seríamos los primeros en Perú, tenemos modelos a seguir como : [Fintual](https://fintual.cl/) (Chile) y [Warren](https://oiwarren.com/) (Brasil).
+
+Adicional a las preguntas, ellos brindaron un flujo de la fintech. 
+![](assets/imgs/flow.jpg)
 
 #### **Reguladores estatales y financieros**
 1. ¿Cuáles son las principales limitaciones que tenemos?
