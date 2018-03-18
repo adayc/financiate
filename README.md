@@ -121,17 +121,22 @@ Cómo mencione, es un poco para saber cómo interactúan los usuarios con sus ah
 
 ### **Business Model Canvas**
 ### **Plan propuesto de investigación**
-#### **Meta de la investigación:**
+
 #### **Objetivo de la investigación:**
-#### **Producto a investigar:**
+Identificar las variables que determinan el comportamiento de los jóvenes profesionales en temas ahorro e inversión y analizar su comportamiento en el contexto financiero digital.
+
+#### **Objetos a investigar:**
+- Fintech de otros países.
+- Jóvenes profesionales entre 18 y 30 años.
 #### **Técnicas a utilizar:**
 - Encuestas online
 - Entrevistas a profundidad
 - Benchmark
 - Testing
 ### **Planner del proyecto**
+PLANER EN EXCEL 
 ### **Proceso de diseño**
-
+![](assets/imgs/proceso.PNG)
 ### **DESCUBRIMIENTO E INVESTIGACIÓN**
 ### **Recopilación y análisis de datos**
 #### **Encuestas online**
