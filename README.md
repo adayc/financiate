@@ -207,7 +207,7 @@ https://drive.google.com/file/d/1EPWBOsojdfoME-dOiHEI8LKQF0mT2OE6/view?usp=shari
 Las entrevistadas fueron:
 > ![](assets/imgs/entrevistadas.png)
 - Los audios de las entrevistas se encuentran en el siguiente link:
-> ttps://drive.google.com/file/d/1EPWBOsojdfoME-dOiHEI8LKQF0mT2OE6/view?usp=sharing 
+> https://drive.google.com/file/d/1EPWBOsojdfoME-dOiHEI8LKQF0mT2OE6/view?usp=sharing 
 
 - _**Brainstorming de aplicativo/website/servicio**_  
 
