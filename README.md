@@ -120,7 +120,7 @@ De las cosas que hemos conversado.
 Cómo mencione, es un poco para saber cómo interactúan los usuarios con sus ahorros e inversiones.
 
 ### **Business Model Canvas**
-EN PROCESO
+![](assets/imgs/canvas.png)
 ### **Plan propuesto de investigación**
 
 #### **Objetivo de la investigación:**
