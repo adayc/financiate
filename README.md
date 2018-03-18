@@ -254,6 +254,7 @@ Además debe plasmar de forma clara que está ocurriendo con el dinero del usuar
 ### **SÍNTESIS Y DEFINICIÓN**
 ### **Affinity Mapping**
 Se comenzó a trabajar para realizar el ejercicio de **findings en post it** para posteriormente realizar el **Affinity Mapping** donde se agruparon los principales motivos de inversión y no inversión según su categoría.
+![](assets/imgs/motivos.jpg)
 #### **Ideas principales**
 ### **User persona**
 #### **User persona primario**
