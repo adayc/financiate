@@ -272,8 +272,15 @@ Luego de analizar todo la información obtenida, nos dimos cuenta de que de las 
 Por lo tanto se abordará estos temas en la aplicación mediante un asesor financiero online e informando de forma clara el nivel de riesgo de acuerdo a la inversión que se realice.
 
 #### **Comentarios de los usuarios**
+- "Porque las finanzas o temas de dinero no son lo mío, me causa mucha inseguridad por el tema legal. Pero, si me informase mejor de cómo hacerlo correctamente, me animaría a hacerlo."
+
+- "No tenía muy claro el tema de las inveriosiones."
+- "Tengo miedo con lo que pueda pasar con mi dinero."
+- "No tengo asesoría para hacerlo."
+- "Me da miedo y siento que no soy una persona muy orientada a esas cosas."
 ### **User persona**
 #### **User persona primario**
+
 #### **User persona secundario**
 ### **Problems Statements**
 ### **How Might We? (HMW)**
