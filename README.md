@@ -274,7 +274,7 @@ Por lo tanto se abordará estos temas en la aplicación mediante un asesor finan
 #### **Comentarios de los usuarios**
 - "Porque las finanzas o temas de dinero no son lo mío, me causa mucha inseguridad por el tema legal. Pero, si me informase mejor de cómo hacerlo correctamente, me animaría a hacerlo."
 
-- "No tenía muy claro el tema de las inveriosiones."
+- "No tenía muy claro el tema de las inverisiones."
 - "Tengo miedo con lo que pueda pasar con mi dinero."
 - "No tengo asesoría para hacerlo."
 - "Me da miedo y siento que no soy una persona muy orientada a esas cosas."
@@ -282,6 +282,7 @@ Por lo tanto se abordará estos temas en la aplicación mediante un asesor finan
 #### **User persona primario**
  ![](assets/imgs/andrea-user.png)
 #### **User persona secundario**
+ ![](assets/imgs/chris-user.png)
 ### **Problems Statements**
 ### **How Might We? (HMW)**
 ### **What if?**
