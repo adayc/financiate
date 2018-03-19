@@ -280,7 +280,7 @@ Por lo tanto se abordará estos temas en la aplicación mediante un asesor finan
 - "Me da miedo y siento que no soy una persona muy orientada a esas cosas."
 ### **User persona**
 #### **User persona primario**
- ![](assets/imgs/andrea_user.png)
+ ![](assets/imgs/andrea-user.png)
 #### **User persona secundario**
 ### **Problems Statements**
 ### **How Might We? (HMW)**
