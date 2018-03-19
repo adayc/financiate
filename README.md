@@ -292,17 +292,17 @@ Por lo tanto se abordará estos temas en la aplicación mediante un asesor finan
 ### **Storytelling**
 ### **PROTOTYPING**  
 #### **Arquitectura de la información**
-- _**Card Sorting**_
+1.  _**Card Sorting**_
 - Luego de analizar las necesidades de los usuarios se propusieron 15 items para la arquitectura de información del aplicativo. 
 - Se utilizó el card sorting abierto para que los usuarios crearán categorías y agruparán items en estas. 
 - En el siguiente link se encuentra la aplicación de la técnica: https://drive.google.com/open?id=1_oUxJWZEQ0nMZj87d2uyjHuHRCA-pUHi
 
 
-- _**Conclusiones del card sorting**_  
+2.  _**Conclusiones del card sorting**_  
 Este es el esquema que se obtuvo como resultado:
 
 
-- _**Propuesta d arquitectura de información**_ 
+3.  _**Propuesta d arquitectura de información**_ 
 #### **Paper prototyping - versión 1**
 #### **Paper prototyping - versión 2**
 #### **Prototipo de alta fidelidad**
