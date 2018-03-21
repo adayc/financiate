@@ -284,6 +284,15 @@ Por lo tanto se abordará estos temas en la aplicación mediante un asesor finan
 #### **User persona secundario**
  ![](assets/imgs/chris-user.png)
 ### **Problems Statements**
+1. Andrea **necesita** información del rendimiento de las empresas **para** invertir sus ahorros.
+2. Andrea **necesita** sugerencias de empresas **para** invertir de acuerdo a su perfil.
+3. Andrea **necesita** obtener más ingresos **para** realizar todos sus viajes planeados.
+4. Andrea **necesita** invertir de forma sencilla **para** emplear su tiempo en otras actividades.
+5. Andrea **necesita** mantenerse informada de sus inversiones **para** tener seguridad de que sus ahorros estan creciendo.
+6. Andrea **necesita** un asesor financiero **para** mejorar sus inversiones en un determinado tiempo.
+7. Andrea **necesita** rescatar sus inversiones de forma rápida **para** solventar sus gastos en cualquier momento.
+8. Andrea **necesita** invertir en el corto plazo **para** obtener ingresos rápidamente.
+9. Andrea **necesita** autorizar el uso de su firma digital **para** realizar operaciones en línea.
 ### **How Might We? (HMW)**
 ### **What if?**
 ### **IDEACIÓN**
@@ -302,7 +311,7 @@ Por lo tanto se abordará estos temas en la aplicación mediante un asesor finan
 Este es el esquema que se obtuvo como resultado:
 
 
-3.  _**Propuesta d arquitectura de información**_ 
+3.  _**Propuesta de arquitectura de información**_ 
 #### **Paper prototyping - versión 1**
 #### **Paper prototyping - versión 2**
 #### **Prototipo de alta fidelidad**
