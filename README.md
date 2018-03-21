@@ -304,6 +304,16 @@ Por lo tanto se abordará estos temas en la aplicación mediante un asesor finan
 8. **HMW** mostrar los cálculos en el corto y largo plazo?
 9. **HMW** plasmar la firma digital para permitir las inversiones en las empresas.
 ### **What if?**
+1. **What if** no necesitamos la firma para las transacciones?
+2. **What if** un asesor realiza los trámites para autorizar el débito del monto mensual?
+3. **What if** los usuarios saben de finanzas y no necesitan un asesor?
+4. **What if** los usuarios buscan las empresas a invertir y evitamos sugerir?
+5. **What if** los usuarios arriesgan un monto mayor del mínimo sugerido?
+6. **What if** los usuarios confian en las entidades de inversión'
+7. **What if** no existe riesgo al invertir?
+8. **What if** el usuario no posee un perfil de inversor?
+9. **What if** los usuarios no necesitan evolutivos de sus inversiones?
+10. **What if** el usuario rescata el monto actual cuando logra la meta y no en cualquier momento?
 ### **IDEACIÓN**
 ### **Feature List**
 ### **Priorización**
