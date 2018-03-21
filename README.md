@@ -337,7 +337,9 @@ Por lo tanto se abordará estos temas en la aplicación mediante un asesor finan
 
 
 2.  _**Conclusiones del card sorting**_  
-- Se
+- Se modificó "Ranking de mis empresas" por "Ranking de mis inversiones"
+- Se agregó "Lista de inversión" y "Rescatar".
+- Con estas actualizaciones se logró eliminar los flujos innecesarios, sobretodo reducir los pasos para realizar alguna tarea.
 Este es el esquema que se obtuvo como resultado:
  ![](assets/imgs/card-sorting-financiatech.jpg)
 
