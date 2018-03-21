@@ -292,8 +292,17 @@ Por lo tanto se abordará estos temas en la aplicación mediante un asesor finan
 6. Andrea **necesita** un asesor financiero **para** mejorar sus inversiones en un determinado tiempo.
 7. Andrea **necesita** rescatar sus inversiones de forma rápida **para** solventar sus gastos en cualquier momento.
 8. Andrea **necesita** invertir en el corto plazo **para** obtener ingresos rápidamente.
-9. Andrea **necesita** autorizar el uso de su firma digital **para** realizar operaciones en línea.
+9. Andrea **necesita** autorizar el uso de su firma digital **para** realizar inversiones en línea.
 ### **How Might We? (HMW)**
+1. **HMW** mostrar información del rendimiento evolutivo a invertir?
+2. **HMW** mostrar empresas sugeridas a nuestros usuarios para que inviertan?
+3. **HMW** hacer que los usuarios obtengan más ingresos?
+4. **HMW** hacer que los usuarios inviertan sin desconfianza?
+5. **HMW** informar a los usuarios acerca del comportamiento de sus inversiones?
+6. **HMW** asesorar al usuario según su perfil del inversor?
+7. **HMW** rescatar rápidamente el dinero de nuestros usuarios?
+8. **HMW** mostrar los cálculos en el corto y largo plazo?
+9. **HMW** plasmar la firma digital para permitir las inversiones en las empresas.
 ### **What if?**
 ### **IDEACIÓN**
 ### **Feature List**
