@@ -337,8 +337,9 @@ Por lo tanto se abordará estos temas en la aplicación mediante un asesor finan
 
 
 2.  _**Conclusiones del card sorting**_  
+- Se
 Este es el esquema que se obtuvo como resultado:
-
+ ![](assets/imgs/card-sorting-financiatech.jpg)
 
 3.  _**Propuesta de arquitectura de información**_ 
 #### **Paper prototyping - versión 1**
