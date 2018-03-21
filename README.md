@@ -316,6 +316,16 @@ Por lo tanto se abordará estos temas en la aplicación mediante un asesor finan
 10. **What if** el usuario rescata el monto actual cuando logra la meta y no en cualquier momento?
 ### **IDEACIÓN**
 ### **Feature List**
+1. Elaborar un perfil de inversor
+2. Establecer un monto mínimo de inversión apoyado en un monto inicial, monto mensual y monto final en base al tiempo.
+3. Sugerir empresas en las cuales se pueda invertir de acuerdo al perfil.
+4. Autorizar el débito de los montos mediante firma digital.
+5. Permite crear objetivos compartidos entre varias personas.
+6. Editar montos mensuales, esperados y período de tiempo de inversión.
+7. Agregar sugerencias de inversiones a una lista.
+8. Eliminar item de lista de empresas sugeridas.
+9. Rescatar un monto total u otra cantidad.
+10. Editar y eliminar un objetivo.
 ### **Priorización**
 ### **Storytelling**
 ### **PROTOTYPING**  
