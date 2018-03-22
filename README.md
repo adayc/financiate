@@ -355,13 +355,16 @@ Este es el esquema que se obtuvo como resultado:
 - _**Flujo real del producto**_ 
 
 #### **Primer testing - paper prototyping**
+https://marvelapp.com/project/2825855/
 - _**Script del testing**_ 
 - _**Tareas a realizar**_ 
 
 #### **Segundo testing - paper prototyping**
+https://marvelapp.com/project/2829208/
 - _**Script del testing**_ 
 - _**Tareas a realizar**_ 
 #### **Tercer testing - prototipo de alta fidelidad**
+https://marvelapp.com/85jc571/screen/40120446
 - _**Script del testing**_ 
 - _**Tareas a realizar**_ 
 
