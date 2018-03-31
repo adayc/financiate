@@ -344,10 +344,19 @@ Este es el esquema que se obtuvo como resultado:
  ![](assets/imgs/card-sorting-financiatech.jpg)
 
 3.  _**Propuesta de arquitectura de información**_ 
+Se plantea 3 flujos principales en que integren las principales tareas:
+1. Edición de Datos personales y financieros.
+2. Sugerencias de inversión.
+3. Rescatar montos parciales y totales de las inversiones.
+4. Plantear nuevos objetivos y visualizar los actuales.
+ ![](assets/imgs/ai.PNG)
 #### **Paper prototyping - versión 1**
 #### **Paper prototyping - versión 2**
 #### **Prototipo de alta fidelidad**
 ### **TESTING**
+#### **A/B Testing**
+1.  _**Panel principal**_
+2.  _**Menú de navegabilidad**_
 #### **User Flow**
 #### **Task Flow**
 #### **Customer Journey Map**
