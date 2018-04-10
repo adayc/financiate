@@ -25,7 +25,7 @@ Financiatech es un asesor financiero online que permite invertir los ahorros de 
 
 - [User Flow](#user-flow)
 - [Task Flow](#task-flow)
-- [Equipo de trabajo](#equipo-de-trabajo)
+
 
 ### **NUEVA EXPERIENCIA EN UNA PLATAFORMA DE INVERSIONES**
 
