@@ -1,6 +1,11 @@
-# Financiate App
--------------------
-## Tabla de contenido
+# Financiatech
+Financiatech es un asesor financiero online que permite invertir los ahorros de jóvenes profesionales entre 18 y 30 años. Este asesor financiero orienta la inversión de acuerdo al perfil que posee cada persona y toma como objetivos las motivaciones, así como las metas de cada una.
+![image](https://user-images.githubusercontent.com/32311089/38540191-b920117a-3c60-11e8-8f2b-6b2ba1270748.png)
+
+## Desarrollado para
+ [Italo Garcia Rodriguez](https://www.linkedin.com/in/italogarcia/)
+
+### Tabla de contenido
 - [Idea de Negocio](#idea-de-negocio)
 - [Público objetivo](#público-objetivo)
 
